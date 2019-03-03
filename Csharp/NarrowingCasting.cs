@@ -8,8 +8,9 @@ namespace csharp{
         float float1 = 0.0F;
 
         public void Narrowing(){
-            float1 = int1;
+            int1 = (int) float1;
             Console.WriteLine(float1);
+        
         }
     }
 }
