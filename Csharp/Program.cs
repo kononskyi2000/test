@@ -9,7 +9,13 @@ namespace csharp
         static void Main(string[] args)
         {
             WideningCasting wideningCasitng = new WideningCasting();
-            wideningCasitng.conversion(); 
+            wideningCasitng.Conversion(); 
+
+            NarrowingCasting narrowingCasting = new NarrowingCasting();
+            narrowingCasting.Narrowing();
+
+            Console.ReadLine();
+
         }
     }
 }

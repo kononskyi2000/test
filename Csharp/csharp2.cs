@@ -12,7 +12,7 @@ namespace csharp
             float float1 = 0.0f;
             double double1 = 0.0d;
             
-        public void conversion ()
+        public void Conversion ()
         {
             double1 = float1 = long1 = int1 = short1 = byte1;
             Console.WriteLine(double1);
