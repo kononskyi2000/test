@@ -8,6 +8,7 @@ namespace csharp{
         public void FloatToChar(float float1) {
             char char1;
             char1 = (char) float1;
+            //String char2 = Convert.ToString(char1);
             Console.WriteLine("Input float value is " + float1 + " Output char value is " + char1);
 
         }
