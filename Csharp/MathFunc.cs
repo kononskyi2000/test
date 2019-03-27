@@ -11,6 +11,14 @@ namespace ConsoleApp.tests
         public int Multiply(int a, int b){
             return a * b;
         }
+
+        public int Addition(int a, int b){
+            return a + b;
+        }
+
+        public int Division(int a, int b){
+            return a / b;
+        }
     }
 
 }

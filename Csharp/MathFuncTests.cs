@@ -27,7 +27,41 @@ namespace ConsoleApp.tests
             MathFunc mathFunc = new MathFunc();
             Assert.AreNotEqual(expected, mathFunc.Multiply(a, b));
         }
-        
+
+        [Test]
+        public void AdditionTest2(){
+            int a = 11;
+            int b = 3;
+            int expected = 18;
+            MathFunc mathFunc = new MathFunc();
+            Assert.AreNotEqual(expected, mathFunc.Addition(a, b));
+        }
+        [Test]
+        public void AdditionTest(){
+            int a = 11;
+            int b = 3;
+            int expected = 14;
+            MathFunc mathFunc = new MathFunc();
+            Assert.AreEqual(expected, mathFunc.Addition(a, b));
+        }
+
+        [Test]
+        public void DivisionTest(){
+            int a = 12;
+            int b = 3;
+            int expected = 4;
+            MathFunc mathFunc = new MathFunc();
+            Assert.AreEqual(expected, mathFunc.Division(a, b));
+        }
+
+        [Test]
+        public void DivisionTest2(){
+            int a = 12;
+            int b = 3;
+            int expected = 9;
+            MathFunc mathFunc = new MathFunc();
+            Assert.AreNotEqual(expected, mathFunc.Division(a, b));
+        }
     }
 
 }

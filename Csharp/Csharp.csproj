@@ -18,5 +18,6 @@
     <PackageReference Include="NUnit3TestAdapter" Version="3.13.0" />
     <Content Include="MathFunc.cs" />
     <Content Include="MathFuncTests.cs" />
+    <Content Include="CircleRadius.cs" />
   </ItemGroup>
 </Project>
