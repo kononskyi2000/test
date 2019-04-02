@@ -9,8 +9,8 @@ namespace csharp
 
         static void Main (string[] args)
         {
-            CircleRadius circleRadius = new CircleRadius();
-            circleRadius.Calculate();
+            CircleArea CircleArea = new CircleArea();
+            CircleArea.CalculateBigger();
         }
     }
 }

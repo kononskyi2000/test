@@ -19,5 +19,6 @@
     <Content Include="MathFunc.cs" />
     <Content Include="MathFuncTests.cs" />
     <Content Include="CircleRadius.cs" />
+    <Content Include="CircleAres.cs" />
   </ItemGroup>
 </Project>
