@@ -9,7 +9,8 @@ namespace csharp {
             public bool isEven (int val){
                 int k = val / 2;
                 if ( k == (double)val/2){
-                    return true;}
+                    return true;
+                    }
                 else {
                     return false;}
 
