@@ -20,5 +20,9 @@
     <Content Include="MathFuncTests.cs" />
     <Content Include="CircleRadius.cs" />
     <Content Include="CircleAres.cs" />
+    <Content Include="RightAngel" />
+    <Content Include="RightAngel.cs" />
+    <Content Include="EvenOdd" />
+    <Content Include="EvenOdd.cs" />
   </ItemGroup>
 </Project>
