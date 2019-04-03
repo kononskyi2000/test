@@ -25,5 +25,11 @@
     <Content Include="EvenOdd" />
     <Content Include="EvenOdd.cs" />
     <Content Include="Loop\Program.cs" />
+    <Content Include="AlessB.cs" />
+    <Content Include="Alessb.cs" />
+    <Content Include="bin\Debug\netcoreapp2.2\Csharp.AssemblyInfo.cs" />
+    <Content Include="ShowNumbers.cs" />
+    <Content Include="Increment.cs" />
+    <Content Include="EvenCount.cs" />
   </ItemGroup>
 </Project>
