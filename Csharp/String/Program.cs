@@ -9,9 +9,8 @@ namespace lesson7
 
         static void Main (string[] args)
         {
-            string string1 = "oppo";
-            Palindrom palindrom = new Palindrom();
-            palindrom.IsPalindrome(string1);
+            SplitString splitString = new SplitString();
+            splitString.SplitStr();
         }
         
     }

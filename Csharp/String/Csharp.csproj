@@ -29,5 +29,7 @@
     <Content Include="CharToString.cs" />
     <Content Include="PlayWithChar.cs" />
     <Content Include="Palindrom.cs" />
+    <Content Include="IterateString.cs" />
+    <Content Include="SplitString.cs" />
   </ItemGroup>
 </Project>
