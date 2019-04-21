@@ -28,9 +28,6 @@ namespace array
             }
 
             Console.WriteLine();
-
-
-
         }
     }
 }

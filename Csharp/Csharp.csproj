@@ -25,5 +25,7 @@
     <Content Include="EvenOdd" />
     <Content Include="EvenOdd.cs" />
     <Content Include="Loop\Program.cs" />
+    <Content Include="Array\Program.cs" />
+    <Content Include="String\CharToString.cs" />
   </ItemGroup>
 </Project>
