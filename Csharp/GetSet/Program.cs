@@ -14,7 +14,8 @@ namespace getset
         static void Main (string[] args)
         {  
             Student student = new Student();
-            Console.WriteLine(student.SetResponse("tytyt"));
+
+            Console.WriteLine(student.SetResponse("DFDSFSDF"));
 
            
 
